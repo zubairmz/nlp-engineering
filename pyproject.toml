@@ -9,4 +9,5 @@ dependencies = [
     "matplotlib>=3.10.8",
     "nltk>=3.9.4",
     "numpy>=2.4.3",
+    "spacy>=3.8.13",
 ]
